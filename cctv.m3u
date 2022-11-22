@@ -11,6 +11,9 @@ http://117.169.124.149:8080/live/HD-8000k-1080P-cctv3/1.m3u8
 #EXTINF:-1 ,CCTV5
 
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv5/1.m3u8
+
+#EXTINF:-1 ,CCTV5+
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv05plus/1.m3u8
 #EXTINF:-1 ,CCTV6
 
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv6/1.m3u8
