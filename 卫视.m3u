@@ -64,6 +64,8 @@ http://live.cooltv.top/tv/aishang.php?id=jjkt
 http://live.cooltv.top/tv/aishang.php?id=hunwshd
 #EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="http://live.cooltv.top/logo/zhejiangweishi.png" group-title="卫视",浙江卫视
 http://live.cooltv.top/tv/aishang.php?id=zjwshd
+#EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="http://live.cooltv.top/logo/zhejiangweishi.png" group-title="卫视",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://live.cooltv.top/tv/aishang.php?id=dfwshd
 #EXTINF:-1 tvg-id="29" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
@@ -124,5 +126,7 @@ http://live.cooltv.top/tv/aishang.php?id=xjws
 http://live.cooltv.top/tv/aishang.php?id=xmws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视
 http://live.cooltv.top/tv/aishang.php?id=nmws
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",百视TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",百视TV
 http://live.cooltv.top/tv/bestv.php?id=27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",纪实人文
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8

@@ -1,0 +1,132 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="韩国" ,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+
+#EXTINF:-1 group-title="韩国" ,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang 3
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+
+#EXTINF:-1 group-title="韩国",Arirang 3
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+
+#EXTINF:-1 group-title="韩国",BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+
+#EXTINF:-1 group-title="韩国",CTS
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+
+#EXTINF:-1 group-title="韩国",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+
+#EXTINF:-1 group-title="韩国",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+
+#EXTINF:-1 group-title="韩国",EBS +2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+
+#EXTINF:-1 group-title="韩国",EBS i
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+
+#EXTINF:-1 group-title="韩国",Gugban
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",Job
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="韩国",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="韩国",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="韩国",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+
+#EXTINF:-1 group-title="韩国",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+
+#EXTINF:-1 group-title="韩国",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
+
+#EXTINF:-1 group-title="韩国",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+
+#EXTINF:-1 group-title="韩国",KETV
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+#EXTINF:-1 group-title="韩国",KETV
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index.m3u8
+
+#EXTINF:-1 group-title="韩国",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",MBC
+http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",MTN W
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",MTN W
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+
+#EXTINF:-1 group-title="韩国",MTN W
+http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",RunningMan
+http://epg.112114.xyz/douyu/131977
+
+#EXTINF:-1 group-title="韩国",RunningMan
+http://epg.112114.xyz/douyu/7298973
+
+#EXTINF:-1 group-title="韩国",국악
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u
+
+#EXTINF:-1 group-title="韩国",韩国中央
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",韩国NBS农业广播
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="韩国",韩国TJB SBS综艺
+http://1.245.74.5:1935/live/tv/.m3u8
+
+

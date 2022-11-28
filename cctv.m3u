@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV1
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv1/1.m3u8
+
+#EXTINF:-1 ,CCTV2
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv2/1.m3u8
+
+#EXTINF:-1 ,CCTV3
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv3/1.m3u8
+
+#EXTINF:-1 ,CCTV4
+http://yfsl.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
+
+#EXTINF:-1 ,CCTV4-2
+http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+
+#EXTINF:-1 ,CCTV5
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv5/1.m3u8
+
+#EXTINF:-1 ,CCTV5+
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv05plus/1.m3u8
+
+#EXTINF:-1 ,CCTV6
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv6/1.m3u8
+
+#EXTINF:-1 ,CCTV7
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv7/1.m3u8
+
+#EXTINF:-1 ,CCTV8
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/1.m3u8
+
+#EXTINF:-1 ,CCTV9
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv9/1.m3u8
+
+#EXTINF:-1 ,CCTV10
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv10/1.m3u8
+
+#EXTINF:-1 ,CCTV12
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv12/1.m3u8
+
+#EXTINF:-1 ,CCTV13
+http://yfsl.vsd.gehua.net.cn/live/CCTV13HD_6000.m3u8
+
+#EXTINF:-1 ,CCTV13-2
+http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+
+#EXTINF:-1 ,CCTV14
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv14/1.m3u8
+
+#EXTINF:-1 ,CCTV15
+http://yfsl.vsd.gehua.net.cn/live/CCTV15HD_6000.m3u8
+
+#EXTINF:-1 ,CCTV15-2
+http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+
+#EXTINF:-1 ,CCTV16
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+
+#EXTINF:-1 ,CCTV16 4k
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+
+#EXTINF:-1 ,CCTV17
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv17/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png" group-title="央视",CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+

@@ -51,7 +51,18 @@ https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
 #EXTINF:-1 ,山东惠民综合
 
 https://jsylivealone302.iqilu.com/live/huimin_tv01.m3u8
+#EXTINF:-1 ,天津西青0
 
+http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 ,苏州新闻综合高清
+
+https://liveshowbak2.kan0512.com/norecord/norecord_csztv1/playlist.m3u8
+#EXTINF:-1 ,苏州社会经济高清
+
+https://liveshowbak2.kan0512.com/norecord/norecord_csztv2/playlist.m3u8
+#EXTINF:-1 ,上海外语
+
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 
 ---------------------------
 已验证 720p:

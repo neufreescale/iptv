@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="香港",翡翠台1
+http://23.237.10.66:16106
+
+#EXTINF:-1 group-title="香港",翡翠台2
+http://23.237.10.66:16410
+
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="香港",直播新闻台 
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="香港",无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0
+
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="香港",无线财经资讯台
+http://live.cooltv.top/tv/tvb.php?id=2
+
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="香港",RTHK31
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="香港",RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="澳门",莲花卫视
+http://live.cooltv.top/tv/lotus.php
+
+#EXTINF:-1 group-title="澳门",澳视澳门
+http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 group-title="澳门",澳门Macau
+http://61.244.22.5/ch3/ch3.live/index.m3u8
+
+#EXTINF:-1 group-title="澳门",澳门资讯 
+http://61.244.22.5/ch5/info_ch5.live/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="台湾",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+
+#EXTINF:-1 group-title="台湾",VBS 新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+#EXTINF:-1 group-title="台湾",八大戏剧
+http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+
+#EXTINF:-1 group-title="台湾",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+#EXTINF:-1 group-title="台湾",民视
+http://23.237.10.66:16334
+
+#EXTINF:-1 group-title="台湾",民视新闻台
+https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+
+#EXTINF:-1 group-title="台湾",台视 HD
+http://23.237.10.66:16344 
+
+#EXTINF:-1 group-title="台湾",原住民
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+
+
+
+
+
+
+

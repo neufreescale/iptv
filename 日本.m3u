@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="日本",Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",BesTV
+http://bp-caster.bestv.com.cn/514/1/video.m3u8 
+
+#EXTINF:-1 group-title="日本",BS12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",Fuji
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",MX 1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+
+#EXTINF:-1 group-title="日本", Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
+#EXTINF:-1 group-title="日本",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+
+#EXTINF:-1 group-title="日本",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+
+#EXTINF:-1 group-title="日本",WBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+
+#EXTINF:-1 group-title="日本",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+#EXTINF:-1 group-title="日本",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 group-title="日本",Weather News
+https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+#EXTINF:-1 group-title="日本",全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 group-title="日本",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="日本",NHK World 
+http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 group-title="日本",日本购物1
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+#EXTINF:-1 group-title="日本",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+
+#EXTINF:-1 group-title="日本",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+
+#EXTINF:-1 group-title="日本",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
