@@ -6,6 +6,9 @@ http://23.237.10.66:16106
 #EXTINF:-1 group-title="香港",翡翠台2
 http://23.237.10.66:16410
 
+#EXTINF:-1 group-title="香港",翡翠台3
+https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="香港",直播新闻台 
 http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 
