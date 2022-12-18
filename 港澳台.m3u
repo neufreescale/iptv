@@ -38,12 +38,18 @@ http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 group-title="澳门",澳门资讯 
 http://61.244.22.5/ch5/info_ch5.live/chunklist.m3u8
 
+#EXTINF:-1 group-title="台湾",东森新闻
+http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
 
 #EXTINF:-1 group-title="台湾",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 #EXTINF:-1 group-title="台湾",VBS 新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+
+#EXTINF:-1 group-title="台湾",中视新闻
+http://61.222.202.191/gt/gttv.php?id=13681&cid=13834
 
 #EXTINF:-1 group-title="台湾",八大戏剧
 http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
@@ -54,6 +60,9 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="台湾",民视
 http://23.237.10.66:16334
 
+#EXTINF:-1 group-title="台湾",民视-2
+http://61.222.202.191/gt/gttv.php?id=13669&cid=13822
+
 #EXTINF:-1 group-title="台湾",民视新闻台
 https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 
@@ -62,6 +71,9 @@ http://23.237.10.66:16344
 
 #EXTINF:-1 group-title="台湾",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+
+#EXTINF:-1 group-title="台湾",华视
+http://61.222.202.191/gt/gttv.php?id=13676&cid=13829
 
 
 
